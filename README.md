@@ -14,6 +14,6 @@ This project contains following fetures:
   
   # Screenshots
   
-  [url=https://postimg.cc/t7HMHZmt][img]https://i.postimg.cc/t7HMHZmt/Whats-App-Image-2021-10-03-at-12-11-44-PM.jpg[/img][/url]
+  https://i.postimg.cc/t7HMHZmt/Whats-App-Image-2021-10-03-at-12-11-44-PM.jpg[/img][/url]
 
-  [url=https://postimg.cc/tn56Kmvf][img]https://i.postimg.cc/tn56Kmvf/Whats-App-Image-2021-10-03-at-12-12-59-PM.jpg[/i
+  https://i.postimg.cc/tn56Kmvf/Whats-App-Image-2021-10-03-at-12-12-59-PM.jpg[/i
