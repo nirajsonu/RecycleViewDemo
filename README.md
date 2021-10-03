@@ -10,3 +10,10 @@ This project contains following fetures:
 3) <b>Hetrogenuos type of recyclerview.<b><br>
 4) <b>on touch listerner of recyclerview<b><br>
 5) <b>serch and sort operation in recyclerview.<b><br>
+
+  
+  # Screenshots
+  
+  [url=https://postimg.cc/t7HMHZmt][img]https://i.postimg.cc/t7HMHZmt/Whats-App-Image-2021-10-03-at-12-11-44-PM.jpg[/img][/url]
+
+  [url=https://postimg.cc/tn56Kmvf][img]https://i.postimg.cc/tn56Kmvf/Whats-App-Image-2021-10-03-at-12-12-59-PM.jpg[/i
